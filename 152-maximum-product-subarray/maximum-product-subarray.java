@@ -6,7 +6,7 @@ class Solution {
         
         for (int i = 1; i < n; i++) {
         
-			// Swapping min and max
+		
             if (nums[i] < 0){
                 int temp = max;
                 max = min;
