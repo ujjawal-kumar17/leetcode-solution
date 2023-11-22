@@ -10,9 +10,6 @@
  */
 class Solution {
  public ListNode mergeInBetween(ListNode list1, int a, int b, ListNode list2) {
-       /* if(list1 == null || list2 == null){
-            return null;
-        }*/
         ListNode link1,link2;
         link1=list1;
         link2=list1;
