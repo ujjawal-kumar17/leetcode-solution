@@ -19,7 +19,7 @@ class Solution {
                 result.append((char) ('a' + i));
             }
         }
-        // UPVOTE :)
+
         return result.toString();
     }
 }
